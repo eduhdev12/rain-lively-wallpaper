@@ -1,0 +1,20 @@
+{
+  "rainColor": {
+    "text": "Rain Color",
+    "type": "color",
+    "value": "#00FF46"
+  },
+  "dropColor": {
+    "text": "Rain drop color",
+    "type": "color",
+    "value": "#00FF46"
+  },
+  "rainAmount": {
+    "max": 100,
+    "min": 0,
+    "tick": 25,
+    "text": "Rain amount",
+    "type": "slider",
+    "value": 50
+  }
+}
