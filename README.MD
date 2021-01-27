@@ -8,7 +8,7 @@
 *   **Control rain amount**
 
 <p align="center">
- <img src="https://i.imgur.com/rC4eNd3.gif">
+ <img src="https://i.imgur.com/rC4eNd3.mp4">
 </p>
 
 **Installation**
